@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/VooDoo-task/static/css/main.060dcef7.css",
+    "main.js": "/VooDoo-task/static/js/main.8ef93675.js",
+    "static/media/logo.svg": "/VooDoo-task/static/media/logo.11e6534e2683b3b5acf8c235e3dd3427.svg",
+    "index.html": "/VooDoo-task/index.html",
+    "static/media/bigLogo.svg": "/VooDoo-task/static/media/bigLogo.2086e9f7820f5adc88e60bd33d67e9b9.svg",
+    "static/media/closeCircle.svg": "/VooDoo-task/static/media/closeCircle.9d438d8e61569963f4aced095ee85b9b.svg",
+    "static/media/ok.svg": "/VooDoo-task/static/media/ok.d2904c6c8ec45fa6188fc1bc71c2fb0f.svg",
+    "static/media/close.svg": "/VooDoo-task/static/media/close.f9e1fd884e38ced99e021f1ac47b347d.svg",
+    "static/media/chevronDown.svg": "/VooDoo-task/static/media/chevronDown.e67dbe243b6a40aaac93a3e7a7c5e29f.svg",
+    "main.060dcef7.css.map": "/VooDoo-task/static/css/main.060dcef7.css.map",
+    "main.8ef93675.js.map": "/VooDoo-task/static/js/main.8ef93675.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.060dcef7.css",
+    "static/js/main.8ef93675.js"
+  ]
+}
